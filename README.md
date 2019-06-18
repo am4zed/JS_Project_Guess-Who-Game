@@ -16,6 +16,8 @@ A user should be able to:
 
 A user should be able to:
 
+* See how many turns they have left.
+* Guess the hidden character before their turns run out.
 * Have a turn time limit.
 * Provide with some feedback after each selected question.
 * View animation when card is out of play.
